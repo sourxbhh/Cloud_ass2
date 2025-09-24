@@ -1,8 +1,8 @@
 # Assignment 2: Document Similarity using MapReduce
 
-**Name:Sourabh Kumar Dubey**
+**Name: Sourabh Kumar Dubey**
 
-**Student ID:801429834** 
+**Student ID: 801429834** 
 
 ## Approach and Implementation
 
@@ -405,3 +405,7 @@ Document6, Document9	Similarity: 0.08
 Document7, Document8	Similarity: 0.00
 Document7, Document9	Similarity: 0.15
 Document8, Document9	Similarity: 0.04
+
+
+### Note:
+The obtained output for both 3 nodes and 1 node was way too large, around 5000 lines, so I have shown a small segment of my obtained output here. You can find the complet output in the respective output files.
